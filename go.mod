@@ -1,3 +1,3 @@
-module github.com/mengzhuo/cookiestxt
+module github.com/josephvusich/cookiestxt
 
 go 1.16
